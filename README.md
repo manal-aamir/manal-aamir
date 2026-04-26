@@ -1,4 +1,4 @@
-# manal-aamir
+# Manal Aamir
 
 ## 💫 About Me
 
