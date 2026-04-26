@@ -1,4 +1,6 @@
-# 💫 About Me
+# manal-aamir
+
+## 💫 About Me
 
 I'm **Manal Aamir**, a Data Science student at FAST who enjoys building things that turn raw data into something actually useful. Most of my work sits at the intersection of machine learning, data analytics, and product thinking — where messy datasets become clean insights, and models are turned into practical tools people can use.
 
