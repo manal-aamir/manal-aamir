@@ -12,10 +12,6 @@ I'm also building a **femtech startup** focused on an AI-powered, culturally sen
 ### Contact
 - **Email:** manalaamirr@gmail.com
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manal-aamir-26b9ba27a/)
-
 ---
 
 [![](https://komarev.com/ghpvc/?username=manal-aamir&icon=0&color=0)](https://visitcount.itsvg.in)
